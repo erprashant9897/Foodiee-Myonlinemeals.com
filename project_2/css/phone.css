@@ -1,0 +1,59 @@
+/*Navigation Section*/
+#navbar{
+    flex-direction: column;
+}
+
+
+
+
+
+/*Home Section*/
+#home{
+    height: 370px;
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 13px;
+}
+
+
+/*Service Section*/
+#services{
+    flex-direction: column;
+
+}
+
+
+#services .box{
+
+}
+
+
+
+
+
+/*Client Section*/
+#clients{
+    overflow: hidden;
+}
+
+
+
+
+
+
+/*Contact Us Section*/
+
+
+
+
+/*Footer*/
+
+
+
+/*Utility*/
+.h-primary{
+    font-size: 26px;
+}
